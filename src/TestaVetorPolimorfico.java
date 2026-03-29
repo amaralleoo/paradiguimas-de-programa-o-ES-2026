@@ -12,6 +12,7 @@ public class TestaVetorPolimorfico {
             camaleao[i].codar();
             System.out.println("Bônus: " + camaleao[i].calcularBonus());
             System.out.println(camaleao[i].toString());
+            System.out.println("----------------------------------------");
         }
     }
 }
